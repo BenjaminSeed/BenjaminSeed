@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BenjaminSeed](https://github.com/BenjaminSeed)
 
-- 📫 How to reach me email **benseed.bs@gmail.com** or LinkedIn **linkedin.com/in/benjamin-seed**
+- 📫 How to reach me email **benseed.bs@gmail.com** or LinkedIn **[linkedin.com/in/benjamin-seed](https://www.linkedin.com/in/benjamin-seed/)**
 
 <p align="left">
 </p>
